@@ -109,3 +109,5 @@ C:\Users\MJ\source\repos\SaltsReseasoned\obj\Debug\netstandard2.0\SaltsEnemies_R
 C:\Users\MJ\source\repos\SaltsReseasoned\obj\Debug\netstandard2.0\SaltsEne.26BFF4AD.Up2Date
 C:\Users\MJ\source\repos\SaltsReseasoned\obj\Debug\netstandard2.0\SaltsEnemies_Reseasoned.dll
 C:\Users\MJ\source\repos\SaltsReseasoned\obj\Debug\netstandard2.0\SaltsEnemies_Reseasoned.pdb
+C:\Users\MJ\source\repos\SaltsReseasoned\bin\Debug\netstandard2.0\Marosi.SerializableCollections.dll
+C:\Users\MJ\source\repos\SaltsReseasoned\bin\Debug\netstandard2.0\Marosi.Utility.dll

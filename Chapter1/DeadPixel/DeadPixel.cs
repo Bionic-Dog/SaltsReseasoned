@@ -26,7 +26,7 @@ namespace SaltsEnemies_Reseasoned.Chapter1.DeadPixel
             };
             DeadPixel.PrepareEnemyPrefab("assets/PissShitFartCum/Pixel_Enemy.prefab", SaltsReseasoned.saltsAssetBundle, SaltsReseasoned.saltsAssetBundle.LoadAsset<GameObject>("assets/PissShitFartCum/Pixel_Gibs.prefab").GetComponent<ParticleSystem>());
 
-
+            
 
             DeadPixel.AddEnemy(true, true, true);
         }

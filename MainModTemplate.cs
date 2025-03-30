@@ -1,5 +1,6 @@
 ﻿using BepInEx;
 using BrutalAPI;
+using SaltsEnemies_Reseasoned.Statuses;
 using UnityEngine;
 
 //"name", "mod name" are placeholders. replace w/ your info. formatting advised to stay the same
@@ -23,6 +24,7 @@ namespace SaltsEnemies_Reseasoned //replace this with your mod's name. EX. "BRUT
             //YourCharacter.Add(); //change this to whatever filename your fool's data is using. EX. TechCH.Add();
             SaltsReseasoned.saltsAssetBundle = AssetBundle.LoadFromMemory(ResourceLoader.ResourceBinary("reseasonedHawthorne"));
 
+            CustomStatuses.Add();
             Chapter1.DeadPixel.DeadPixel.Add();
 
 

@@ -16,6 +16,8 @@
 	  <None Remove="Chapter1\DeadPixel\deadPixel_dead.png" />
 	  <None Remove="Chapter1\DeadPixel\deadPixel_icon.png" />
 	  <None Remove="Chapter1\DeadPixel\deadPixel_iconB.png" />
+	  <None Remove="CustomPassives\Jumpy.png" />
+	  <None Remove="CustomStatuses\Anesthetics.png" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -29,6 +31,8 @@
 	  <EmbeddedResource Include="Chapter1\DeadPixel\deadPixel_dead.png" />
 	  <EmbeddedResource Include="Chapter1\DeadPixel\deadPixel_icon.png" />
 	  <EmbeddedResource Include="Chapter1\DeadPixel\deadPixel_iconB.png" />
+	  <EmbeddedResource Include="CustomPassives\Jumpy.png" />
+	  <EmbeddedResource Include="CustomStatuses\Anesthetics.png" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -55,6 +59,9 @@
 	  </Reference>
 	  <Reference Include="HarmonyXInterop">
 	    <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Brutal Orchestra\BepInEx\core\HarmonyXInterop.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Marosi.SerializableCollections">
+	    <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Brutal Orchestra\BrutalOrchestra_Data\Managed\Marosi.SerializableCollections.dll</HintPath>
 	  </Reference>
 	  <Reference Include="Mono.Cecil">
 	    <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Brutal Orchestra\BepInEx\core\Mono.Cecil.dll</HintPath>

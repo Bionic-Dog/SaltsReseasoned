@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\MJ\\source\\repos\\SaltsReseasoned\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2C953EB9-36B3-4A71-A844-BFD63BC46D5D}|SaltsEnemies_Reseasoned.csproj|c:\\users\\mj\\source\\repos\\saltsreseasoned\\custompassives\\passives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C953EB9-36B3-4A71-A844-BFD63BC46D5D}|SaltsEnemies_Reseasoned.csproj|solutionrelative:custompassives\\passives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C953EB9-36B3-4A71-A844-BFD63BC46D5D}|SaltsEnemies_Reseasoned.csproj|c:\\users\\mj\\source\\repos\\saltsreseasoned\\customstatuses\\anesthetics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C953EB9-36B3-4A71-A844-BFD63BC46D5D}|SaltsEnemies_Reseasoned.csproj|solutionrelative:customstatuses\\anesthetics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C953EB9-36B3-4A71-A844-BFD63BC46D5D}|SaltsEnemies_Reseasoned.csproj|c:\\users\\mj\\source\\repos\\saltsreseasoned\\customstatuses\\statuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C953EB9-36B3-4A71-A844-BFD63BC46D5D}|SaltsEnemies_Reseasoned.csproj|solutionrelative:customstatuses\\statuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C953EB9-36B3-4A71-A844-BFD63BC46D5D}|SaltsEnemies_Reseasoned.csproj|c:\\users\\mj\\source\\repos\\saltsreseasoned\\chapter1\\deadpixel\\deadpixel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C953EB9-36B3-4A71-A844-BFD63BC46D5D}|SaltsEnemies_Reseasoned.csproj|solutionrelative:chapter1\\deadpixel\\deadpixel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,11 +42,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Passives.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\source\\repos\\SaltsReseasoned\\CustomPassives\\Passives.cs",
+              "RelativeDocumentMoniker": "CustomPassives\\Passives.cs",
+              "ToolTip": "C:\\Users\\MJ\\source\\repos\\SaltsReseasoned\\CustomPassives\\Passives.cs",
+              "RelativeToolTip": "CustomPassives\\Passives.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T19:31:46.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Anesthetics.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\source\\repos\\SaltsReseasoned\\CustomStatuses\\Anesthetics.cs",
+              "RelativeDocumentMoniker": "CustomStatuses\\Anesthetics.cs",
+              "ToolTip": "C:\\Users\\MJ\\source\\repos\\SaltsReseasoned\\CustomStatuses\\Anesthetics.cs",
+              "RelativeToolTip": "CustomStatuses\\Anesthetics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:47:25.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Statuses.cs",
+              "DocumentMoniker": "C:\\Users\\MJ\\source\\repos\\SaltsReseasoned\\CustomStatuses\\Statuses.cs",
+              "RelativeDocumentMoniker": "CustomStatuses\\Statuses.cs",
+              "ToolTip": "C:\\Users\\MJ\\source\\repos\\SaltsReseasoned\\CustomStatuses\\Statuses.cs",
+              "RelativeToolTip": "CustomStatuses\\Statuses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T18:37:50.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "deadPixel_iconB.png - PNG [64x65, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\MJ\\source\\repos\\SaltsReseasoned\\Chapter1\\DeadPixel\\deadPixel_iconB.png",
               "RelativeDocumentMoniker": "Chapter1\\DeadPixel\\deadPixel_iconB.png",
@@ -46,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "deadPixel_icon.png - PNG [48x64, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\MJ\\source\\repos\\SaltsReseasoned\\Chapter1\\DeadPixel\\deadPixel_icon.png",
               "RelativeDocumentMoniker": "Chapter1\\DeadPixel\\deadPixel_icon.png",
@@ -58,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "deadPixel_dead.png - PNG [48x64, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\MJ\\source\\repos\\SaltsReseasoned\\Chapter1\\DeadPixel\\deadPixel_dead.png",
               "RelativeDocumentMoniker": "Chapter1\\DeadPixel\\deadPixel_dead.png",
@@ -70,26 +119,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "DeadPixel.cs",
               "DocumentMoniker": "C:\\Users\\MJ\\source\\repos\\SaltsReseasoned\\Chapter1\\DeadPixel\\DeadPixel.cs",
               "RelativeDocumentMoniker": "Chapter1\\DeadPixel\\DeadPixel.cs",
               "ToolTip": "C:\\Users\\MJ\\source\\repos\\SaltsReseasoned\\Chapter1\\DeadPixel\\DeadPixel.cs",
               "RelativeToolTip": "Chapter1\\DeadPixel\\DeadPixel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T16:50:29.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T16:50:29.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainModTemplate.cs",
               "DocumentMoniker": "C:\\Users\\MJ\\source\\repos\\SaltsReseasoned\\MainModTemplate.cs",
               "RelativeDocumentMoniker": "MainModTemplate.cs",
               "ToolTip": "C:\\Users\\MJ\\source\\repos\\SaltsReseasoned\\MainModTemplate.cs",
               "RelativeToolTip": "MainModTemplate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T16:30:50.117Z"
             },
