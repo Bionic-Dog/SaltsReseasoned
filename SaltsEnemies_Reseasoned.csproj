@@ -7,6 +7,31 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+	  <None Remove="assets\Friendship.bank" />
+	  <None Remove="assets\Friendship.strings.bank" />
+	  <None Remove="assets\group4" />
+	  <None Remove="assets\HawthorneBank.bank" />
+	  <None Remove="assets\HawthorneBank.strings.bank" />
+	  <None Remove="assets\meowy" />
+	  <None Remove="Chapter1\DeadPixel\deadPixel_dead.png" />
+	  <None Remove="Chapter1\DeadPixel\deadPixel_icon.png" />
+	  <None Remove="Chapter1\DeadPixel\deadPixel_iconB.png" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <EmbeddedResource Include="assets\Friendship.bank" />
+	  <EmbeddedResource Include="assets\Friendship.strings.bank" />
+	  <EmbeddedResource Include="assets\group4" />
+	  <EmbeddedResource Include="assets\reseasonedHawthorne" />
+	  <EmbeddedResource Include="assets\HawthorneBank.bank" />
+	  <EmbeddedResource Include="assets\HawthorneBank.strings.bank" />
+	  <EmbeddedResource Include="assets\meowy" />
+	  <EmbeddedResource Include="Chapter1\DeadPixel\deadPixel_dead.png" />
+	  <EmbeddedResource Include="Chapter1\DeadPixel\deadPixel_icon.png" />
+	  <EmbeddedResource Include="Chapter1\DeadPixel\deadPixel_iconB.png" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <Reference Include="0Harmony">
 	    <HintPath>..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Brutal Orchestra\BepInEx\core\0Harmony.dll</HintPath>
 	  </Reference>

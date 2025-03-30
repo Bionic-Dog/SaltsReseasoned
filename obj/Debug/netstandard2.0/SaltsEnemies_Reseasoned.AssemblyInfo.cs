@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SaltsEnemies_Reseasoned")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67d4133ed6c91f34157ff92e440b18fb47a48072")]
 [assembly: System.Reflection.AssemblyProductAttribute("SaltsEnemies_Reseasoned")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SaltsEnemies_Reseasoned")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

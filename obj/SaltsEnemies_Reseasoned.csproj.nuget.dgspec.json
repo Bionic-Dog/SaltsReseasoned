@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MJ\\source\\repos\\SaltsEnemies_Reseasoned\\SaltsEnemies_Reseasoned.csproj": {}
+    "C:\\Users\\MJ\\source\\repos\\SaltsReseasoned\\SaltsEnemies_Reseasoned.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MJ\\source\\repos\\SaltsEnemies_Reseasoned\\SaltsEnemies_Reseasoned.csproj": {
+    "C:\\Users\\MJ\\source\\repos\\SaltsReseasoned\\SaltsEnemies_Reseasoned.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MJ\\source\\repos\\SaltsEnemies_Reseasoned\\SaltsEnemies_Reseasoned.csproj",
+        "projectUniqueName": "C:\\Users\\MJ\\source\\repos\\SaltsReseasoned\\SaltsEnemies_Reseasoned.csproj",
         "projectName": "SaltsEnemies_Reseasoned",
-        "projectPath": "C:\\Users\\MJ\\source\\repos\\SaltsEnemies_Reseasoned\\SaltsEnemies_Reseasoned.csproj",
+        "projectPath": "C:\\Users\\MJ\\source\\repos\\SaltsReseasoned\\SaltsEnemies_Reseasoned.csproj",
         "packagesPath": "C:\\Users\\MJ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MJ\\source\\repos\\SaltsEnemies_Reseasoned\\obj\\",
+        "outputPath": "C:\\Users\\MJ\\source\\repos\\SaltsReseasoned\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
